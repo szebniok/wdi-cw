@@ -3,7 +3,6 @@
  * elementów jest równa sumie indeksów tych elementów. Do funkcji należy przekazać
  * tablicę, funkcja powinna zwrócić sumę elementów znalezionego podzbioru. Na przykład
  * dla tablicy: [ 1, 7, 3, 5, 11, 2 ] rozwiązaniem jest liczba 10.
- * break 24 if i == 2 and accValue == 0
  */
 
 #include <iostream>
